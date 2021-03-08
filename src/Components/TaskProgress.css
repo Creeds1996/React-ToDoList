@@ -1,0 +1,10 @@
+.TaskProgress > h3 {
+  font-size: xx-large;
+  text-decoration: underline;
+}
+
+.TaskProgress ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}

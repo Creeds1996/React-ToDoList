@@ -1,0 +1,16 @@
+.Select {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Select label {
+  margin-right: 5px;
+}
+
+.Select select {
+  background: #457585;
+  border: 2px solid #6c929f;
+  color: white;
+}

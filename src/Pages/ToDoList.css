@@ -1,0 +1,11 @@
+.ToDoList h1 {
+  margin: 0;
+  padding: 15px 0px;
+  font-size: 3rem;
+}
+
+.Modal h2 {
+  font-size: 1.75rem;
+  margin: 0px;
+  margin-top: 15px;
+}

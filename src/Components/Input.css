@@ -1,0 +1,17 @@
+.Input {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Input label {
+  margin-right: 5px;
+}
+
+.Input input {
+  background: #457585;
+  border: 2px solid #6c929f;
+  border-radius: 10px;
+  color: white;
+}

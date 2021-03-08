@@ -1,0 +1,49 @@
+.Backdrop {
+  height: 100vh;
+  width: 100vw;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgba(0, 0, 0, 0.25);
+}
+
+.Modal {
+  height: 350px;
+  width: 80%;
+  max-width: 750px;
+  border: 2px solid #457585;
+  border-radius: 10px;
+  background: #104050;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  color: #6c929f;
+}
+
+.Modal p,
+label {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 1.15rem;
+  margin: 0px;
+}
+
+.Modal .Modal-Close {
+  height: 30px;
+  width: 30px;
+  border: 1px solid black;
+  border-radius: 10px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  background: rgb(255, 101, 101);
+  font-size: 0.75rem;
+}
+
+.Modal .Modal-Close:hover {
+  background: rgb(204, 0, 0);
+  color: white;
+}

@@ -1,0 +1,8 @@
+.Modal .Modal-Buttons,
+.Buttons {
+  width: 100%;
+  max-width: 300px;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-around;
+}
