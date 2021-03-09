@@ -19,3 +19,7 @@ This modal can be closed with the exit button or clicking the background but it 
 Deleting a task follows very similar steps to the previous two. Clicking the 'Delete' button associated with the targeted task will open a confirmation modal allowing the user to confirm or disregard the deletion action.
 
 This modal can be closed with the exit button or clicking the background but it also offers the 'No' button to disregard the deletion action.
+
+## Screenshots
+
+![ToDoList](https://i.imgur.com/WD98MNw.png)
